@@ -16,7 +16,7 @@
                     <div class="divide-y divide-gray-200">
                         <div class="py-8 text-base leading-6 space-y-4 text-gray-700 sm:text-lg sm:leading-7">
                             <div class="flex flex-col">
-                                <label class="leading-loose" for="dietaryRestrictions">Dietary Restrictions</label>
+                                <label class="leading-loose" for="dietaryRestrictions">Dietary Restriction</label>
                                 <input type="text" id="dietaryRestrictions" v-model="dietaryRestrictions"
                                     placeholder="e.g. vegan, gluten-free"
                                     class="px-4 py-2 border focus:ring-gray-500 focus:border-gray-900 w-full sm:text-sm border-gray-300 rounded-md focus:outline-none text-gray-600"
